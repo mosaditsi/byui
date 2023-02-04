@@ -1,0 +1,26 @@
+.main-para {font-size: 1.5em;
+    line-height: 1.5em;
+}
+#active {background-color: white;
+        color: steelblue;
+        }
+
+        img {
+            width:30%;
+        }
+        a {
+            font-size: 1.5em;
+        }
+        * {
+            border: 2px solid blue;
+        }
+h1 {text-align: center;
+}
+
+nav, footer{text-align: center;
+}
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}

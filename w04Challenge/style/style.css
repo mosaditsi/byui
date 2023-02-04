@@ -1,0 +1,7 @@
+img {height: 10%; width: 10%;}
+body{background-color: pink;
+    text-align: center; font-size:xx-large;
+}
+h1,header,.inmain,h4{color: white;}
+footer {font-size: small;}
+a:hover {background-color: white; color:black}
